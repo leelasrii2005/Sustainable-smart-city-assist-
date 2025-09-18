@@ -1,1 +1,5 @@
 # [click here to use IBM-project](https://huggingface.co/spaces/leelasri22/Smartcity1)
+- 📄 *PDF Report:* [project1.pdf](project1.pdf)
+- 📓 *app.py.ipynb Notebook:* [smartcity.ipynb](healthai.ipynb)
+- 🤖 *Live Hugging Face:* [smartcity](https://huggingface.co/spaces/RAJASEKAR1/health-ai1)
+- 🎥 *Demo Video:* [Watch here](https://github.com/23ucs580-spec/HEALTHI-AI-222003/releases/download/v1.0.0/demo.vedio.1.1.mp4)
