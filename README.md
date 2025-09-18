@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [project1.pdf](1012379797238597.pdf)
-- 📓 *app.py.ipynb Notebook:* [smartcity.ipynb](smartcity.ipynb)
+- 📓 *app.py.ipynb Notebook:* [smartcity.ipynb](sustainable_smart_city_assistance.py)
 - 🤖 *Live Hugging Face:* [smartcity](https://huggingface.co/spaces/leelasri22/Smartcity1)
 - 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1bNS8w_N6U7dJ5Qq1tqCacVQ9OlcJxBXb/view?usp=drivesdk)
